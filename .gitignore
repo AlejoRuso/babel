@@ -1,1 +1,2 @@
 echo "dist/"
+node_modules/
